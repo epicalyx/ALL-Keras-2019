@@ -18,6 +18,8 @@ To get started make sure your system meets the following requirements:
 
 ## Software
 
+&nbsp;
+
 ## Clone latest development branch
 
 First of all you should clone the [ALL-Keras-2019](https://github.com/AMLResearchProject/ALL-Keras-2019 "ALL-Keras-2019") repository from the [Peter Moss Acute Myeloid & Lymphoblastic Leukemia AI Research Project](hhttps://github.com/AMLResearchProject "Peter Moss Acute Myeloid & Lymphoblastic Leukemia AI Research Project") Github Organization. 
@@ -32,15 +34,15 @@ The **-b "0.0.1"** parameter ensures you get the code from the latest developmen
 
 Once you have used the command above you will see a directory called **ALL-Keras-2019** in the location you chose to clone to. In terminal, navigate to the **ALL-Keras-2019* directory, this is your project root directory.
 
-## ALL-IDB
+## Acute Lymphoblastic Leukemia Image Database for Image Processing dataset
 
 You need to be granted access to use the Acute Lymphoblastic Leukemia Image Database for Image Processing dataset. You can find the application form and information about getting access to the dataset on [this page](https://homes.di.unimi.it/scotti/all/#download) as well as information on how to contribute back to the project [here](https://homes.di.unimi.it/scotti/all/results.php). If you are not able to obtain a copy of the dataset please feel free to try this tutorial on your own dataset, we would be very happy to find additional AML & ALL datasets.
 
-### ALL_IDB1 
+### ALL-IDB2 
 
-In this project, [ALL-IDB1](https://homes.di.unimi.it/scotti/all/#datasets) is used, one of the datsets from the Acute Lymphoblastic Leukemia Image Database for Image Processing dataset. We will use data augmentation to increase the amount of training and testing data we have.
+In this project, [ALL-IDB2](https://homes.di.unimi.it/scotti/all/#datasets) is used, one of the datsets from the Acute Lymphoblastic Leukemia Image Database for Image Processing dataset. We will use data augmentation to increase the amount of training and testing data we have.
 
-"The ALL_IDB1 version 1.0 can be used both for testing segmentation capability of algorithms, as well as the classification systems and image preprocessing methods. This dataset is composed of 108 images collected during September, 2005. It contains about 39000 blood elements, where the lymphocytes has been labeled by expert oncologists. The images are taken with different magnifications of the microscope ranging from 300 to 500."  
+"The ALL_IDB2 version 1.0 can be used both for testing segmentation capability of algorithms, as well as the classification systems and image preprocessing methods. This dataset is composed of 108 images collected during September, 2005. It contains about 39000 blood elements, where the lymphocytes has been labeled by expert oncologists. The images are taken with different magnifications of the microscope ranging from 300 to 500."  
 
 &nbsp;
 
