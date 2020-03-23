@@ -8,6 +8,17 @@
 
 An Acute Lymphoblastic Leukemia classifier programmed in Python using Keras. Project by research intern [Taru Jain](https://www.petermossamlallresearch.com/students/student/taru-jain/profile "Taru Jain"), and [Amita Kapoor](https://www.leukemiaresearchassociation.ai/team/amita-kapoor/profile "Amita Kapoor").
 
+This project aims to classify Acute Lymphoblastic Leukemia Cells from blood sample images with the aid of deep learning techniques. 
+## Dataset:
+* Class 0 - normal cells dataset is available [here](https://drive.google.com/drive/folders/1J-NIJ4AauKm9Oz3RZQ50ctE8rUgnu7SM?usp=sharing)
+* Class 1 - leukemia cells dataset is available [here](https://drive.google.com/drive/folders/1K8iaxFudZZ0FxrXyIZLl8dNws_QXLsCn?usp=sharing)
+
+## Model
+The model used in this work is based on this [research work](http://www.ijcte.org/vol10/1198-H0012.pdf)
+
+## Quantization
+The model has been converted to its quantized version, so that it can be deployed on edge devices.
+
 &nbsp;
 
 # Getting Started 
@@ -15,8 +26,12 @@ An Acute Lymphoblastic Leukemia classifier programmed in Python using Keras. Pro
 To get started make sure your system meets the following requirements:
 
 ## Hardware
+Google Colab GPU
 
-## Software
+## Software 
+* Google Colab
+* Keras (ver 2.2.5)
+* Tensorflow (ver 1.15.0)
 
 &nbsp;
 
@@ -49,6 +64,11 @@ In this project, [ALL-IDB2](https://homes.di.unimi.it/scotti/all/#datasets) is u
 # Use this project
 
 Follow the guides below to build your Acute Lymphoblastic Leukemia Keras Classifier. 
+* Clone the repo
+* Open the ALLKCNN notebook in google colab and change runtime to GPU to accelerate training (although it may work just fine without GPU support as well)
+* The dataset has been shared via Google Drive Links
+* We can now explore and run the notebook
+* Weight files have also been shared!
 
 &nbsp;
 
