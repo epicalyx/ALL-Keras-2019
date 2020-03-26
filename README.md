@@ -9,9 +9,6 @@
 An Acute Lymphoblastic Leukemia classifier programmed in Python using Keras. Project by research intern [Taru Jain](https://www.petermossamlallresearch.com/students/student/taru-jain/profile "Taru Jain"), and [Amita Kapoor](https://www.leukemiaresearchassociation.ai/team/amita-kapoor/profile "Amita Kapoor").
 
 This project aims to classify Acute Lymphoblastic Leukemia Cells from blood sample images with the aid of deep learning techniques. 
-## Dataset:
-* Class 0 - normal cells dataset is available [here](https://drive.google.com/drive/folders/1J-NIJ4AauKm9Oz3RZQ50ctE8rUgnu7SM?usp=sharing)
-* Class 1 - leukemia cells dataset is available [here](https://drive.google.com/drive/folders/1K8iaxFudZZ0FxrXyIZLl8dNws_QXLsCn?usp=sharing)
 
 ## Model
 The model used in this work is based on this [research work](http://www.ijcte.org/vol10/1198-H0012.pdf)
