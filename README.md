@@ -61,11 +61,12 @@ In this project, [ALL-IDB2](https://homes.di.unimi.it/scotti/all/#datasets) is u
 # Use this project
 
 Follow the guides below to build your Acute Lymphoblastic Leukemia Keras Classifier. 
-* Clone the repo
-* Open the ALLKCNN notebook in google colab and change runtime to GPU to accelerate training (although it may work just fine without GPU support as well)
-* The dataset has been shared via Google Drive Links
+* Clone the repo as mentioned above
+* Navigate to AML/ResearchProject/ALL-Keras-2019/ and open the ALLKCNN2019 notebook in google colab and change runtime to GPU to accelerate training (although it may work just fine without GPU support as well).
+
+```To change runtime in google colab, go to Runtime-> Change Runtime Type-> Select GPU under Hardware Accelerator and save```
 * We can now explore and run the notebook
-* Weight files have also been shared!
+* Weight files are present under the Model folder!
 
 &nbsp;
 
@@ -76,6 +77,7 @@ The Peter Moss Acute Myeloid & Lymphoblastic Leukemia AI Research project encour
 Please read the [CONTRIBUTING](https://github.com/AMLResearchProject/ALL-Keras-2019/blob/master/CONTRIBUTING.md "CONTRIBUTING") document for a full guide to forking our repositories and submitting your pull requests. You will also find information about our code of conduct on this page.
 
 ## Contributors
+- [Amita Kapoor](https://www.petermossamlallresearch.com/team/amita-kapoor/profile) - [Peter Moss Acute Myeloid & Lymphoblastic Leukemia AI Research Project](https://www.leukemiaresearchassociation.ai "Peter Moss Acute Myeloid & Lymphoblastic Leukemia AI Research Project") Project Co-Founder, Student Mentor & R&D
 
 - [Taru Jain](https://www.petermossamlallresearch.com/students/student/taru-jain/profile "Taru Jain") - [Peter Moss Acute Myeloid & Lymphoblastic Leukemia AI Research Project](https://www.leukemiaresearchassociation.ai "Peter Moss Acute Myeloid & Lymphoblastic Leukemia AI Research Project") Research Intern, Delhi, India
 
