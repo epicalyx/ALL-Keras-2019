@@ -2,7 +2,7 @@
 
 ## Acute Lymphoblastic Leukemia Keras Classifier 2019
 
-[![CUREENT DEV BRANCH](https://img.shields.io/badge/CURRENT%20DEV%20BRANCH-0.0.1-blue.svg)](https://github.com/AMLResearchProject/ALL-Keras-2019/tree/0.0.1)
+[![CURRENT DEV BRANCH](https://img.shields.io/badge/CURRENT%20DEV%20BRANCH-0.0.1-blue.svg)](https://github.com/AMLResearchProject/ALL-Keras-2019/tree/0.0.1)
 
 ![Peter Moss Acute Myeloid / Lymphoblastic Leukemia AI Research Project](https://www.PeterMossAmlAllResearch.com/media/images/banner.png)
 
